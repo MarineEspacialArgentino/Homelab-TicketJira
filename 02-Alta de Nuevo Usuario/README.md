@@ -18,8 +18,6 @@ La jefa del área envió el pedido con los datos del nuevo empleado:
 - **Equipamiento:** [notebook estándar / ya asignado]
 - **Aprobación:** [la da la responsable del área]
 
-![Ticket creado](img/01-ticket-creado.png)
-
 ## Validación del pedido
 Verifiqué que el ticket incluyera los datos necesarios y que la solicitud estuviera aprobada por la responsable del área.
 
