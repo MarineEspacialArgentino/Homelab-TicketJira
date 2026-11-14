@@ -23,7 +23,7 @@ Verifiqué que el ticket incluyera los datos necesarios y que la solicitud estuv
 
 
 
-![Aprobación](img/01-Confirmacion.png)
+![Confirmacion](img/01-Confirmacion.png)
 
 ## Solución
 1. Creé la cuenta en Active Directory, dentro de la OU `Usuarios/Logistica`.
