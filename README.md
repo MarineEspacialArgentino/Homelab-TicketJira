@@ -29,7 +29,6 @@ flowchart LR
     AD --- C
 ```
 
-[Opcional: reemplazá el diagrama con una imagen propia en `img/arquitectura.png`.]
 
 ## Estructura de Active Directory
 
